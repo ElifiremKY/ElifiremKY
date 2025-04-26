@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Elif İrem
-
-- 🌱 I’m currently learning algorithm, python and C++
+Hi, I’m Elif İrem
+🌱
 
 
 
