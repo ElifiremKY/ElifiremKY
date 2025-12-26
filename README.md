@@ -1,4 +1,4 @@
-# Hi, I'm Elif İrem Kaya 👋
+# Elif İrem Kaya 
 
 🎓 4th-year Computer Engineering student at İnönü University  
 💻 Interested in **embedded systems, defense technologies, and data-driven applications**  
